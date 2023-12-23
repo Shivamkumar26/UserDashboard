@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 500;
+}
+.tickets {
+  padding-top: 10px;
+}
+.dashview{
+  margin-top: 10px;
+}
+.p-10{
+  padding: 5px 10px;
+}
+.f-16{
+  font-size: 16px;
+}
+.light-text{
+  color: #8D8D8D;
+  font-weight: 400;
+  font-size: 0.9rem;
+}
+.flex-sb{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.flex-gap-10{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+.relative{
+  position: relative;
+}
